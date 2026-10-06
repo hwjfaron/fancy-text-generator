@@ -17,3 +17,5 @@ index.html : 网站全部文件（单文件、纯前端、无后端）
 
 3. 免费托管：拖到 Cloudflare Pages / Vercel /
    Netlify / GitHub Pages，直接得到 https 域名。
+
+   可用于谷歌adsense过申!!!
